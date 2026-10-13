@@ -1,9 +1,9 @@
 # This theme is based on https://github.com/jekyll/minima
 # Please refer above link to know the available configurations
 
-title: ""
+title: "INSECT - Agricultural Hexapod Robot"
 remote_theme: cepdnaclk/eYY-project-theme
-description: ""
+description: "IoT Networked System for Environmental and Crop Telemetry"
 markdown: kramdown
 
 kramdown:

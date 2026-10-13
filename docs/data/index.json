@@ -1,32 +1,38 @@
-{    
-    "title": "NETH - Networked Ecological Telemetry Hub"
-    "team": [
-        {
-            "name": "Bhagya Karunanayake",
-            "email": "e22184@eng.pdn.ac.lk",
-            "eNumber": "E/22/184"
-        },
-        {
-            "name": "Imaadh Ifthikar",
-            "email": "e22151@eng.pdn.ac.lk",
-            "eNumber": "E/22/151"
-        },
-        {
-            "name": "Daniru Chandrawansha",
-            "email": "e22056@eng.pdn.ac.lk",
-            "eNumber": "E/22/056"
-        },
-        {
-            "name": "Didulana Lokugamage",
-            "email": "e22214@eng.pdn.ac.lk",
-            "eNumber": "E/22/214"
-        }
-    ],
-    "supervisors": [
-        {
-            "name": "Ms. Yasodha Vimukthi",
-            "email": "yasodhav@eng.pdn.ac.lk"
-        }
-    ],
-    "tags": ["Web", "Embedded Systems", "IoT"]
+{
+  "title": "INSECT - IoT Networked System for Environmental and Crop Telemetry",
+  "team": [
+    {
+      "name": "H.M.Anushka Madawa",
+      "email": "e22131@eng.pdn.ac.lk",
+      "eNumber": "E/22/131"
+    },
+    {
+      "name": "Member 2 Name",
+      "email": "e22322@eng.pdn.ac.lk",
+      "eNumber": "E/22/322"
+    },
+    {
+      "name": "Member 3 Name",
+      "email": "e22323@eng.pdn.ac.lk",
+      "eNumber": "E/22/323"
+    },
+    {
+      "name": "Member 4 Name",
+      "email": "e22427@eng.pdn.ac.lk",
+      "eNumber": "E/22/427"
+    }
+  ],
+  "supervisors": [
+    {
+      "name": "Supervisor Name",
+      "email": "supervisor@eng.pdn.ac.lk"
+    }
+  ],
+  "tags": [
+    "Agricultural Robotics",
+    "Embedded Systems",
+    "IoT",
+    "Computer Vision",
+    "Precision Agriculture"
+  ]
 }
