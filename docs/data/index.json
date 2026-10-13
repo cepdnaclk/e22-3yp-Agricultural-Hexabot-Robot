@@ -1,0 +1,32 @@
+{    
+    "title": "NETH - Networked Ecological Telemetry Hub"
+    "team": [
+        {
+            "name": "Bhagya Karunanayake",
+            "email": "e22184@eng.pdn.ac.lk",
+            "eNumber": "E/22/184"
+        },
+        {
+            "name": "Imaadh Ifthikar",
+            "email": "e22151@eng.pdn.ac.lk",
+            "eNumber": "E/22/151"
+        },
+        {
+            "name": "Daniru Chandrawansha",
+            "email": "e22056@eng.pdn.ac.lk",
+            "eNumber": "E/22/056"
+        },
+        {
+            "name": "Didulana Lokugamage",
+            "email": "e22214@eng.pdn.ac.lk",
+            "eNumber": "E/22/214"
+        }
+    ],
+    "supervisors": [
+        {
+            "name": "Ms. Yasodha Vimukthi",
+            "email": "yasodhav@eng.pdn.ac.lk"
+        }
+    ],
+    "tags": ["Web", "Embedded Systems", "IoT"]
+}
